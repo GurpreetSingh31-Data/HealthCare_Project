@@ -1,5 +1,5 @@
 # HealthCare_Project
-Power Bi project  
+## Power Bi project  
 
 ![Screenshot 2024-08-08 164557](https://github.com/user-attachments/assets/4ba8673d-4ce1-4070-85bc-680fb21ae47a)  
 
