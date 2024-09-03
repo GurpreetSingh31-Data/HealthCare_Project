@@ -33,14 +33,17 @@
 
 **Specialty and Case Type Filters**: Filters allow users to focus on specific specialties or case types, making the dashboard versatile   
 
-![Screenshot 2024-08-08 164702](https://github.com/user-attachments/assets/98e0bfce-c089-4adc-a31a-a77d5330d05c)  
+![Screenshot 2024-08-08 164702](https://github.com/user-attachments/assets/98e0bfce-c089-4adc-a31a-a77d5330d05c)    
 
-## 1. Data Segmentation by Date
+
+## 1. Data Segmentation by Date  
+
 **Date Range**: The dashboard allows users to select a date range (from January 31, 2018, to March 31, 2021) to analyze the data within a specific timeframe.  
 
 **Archival Date**: The data is likely archived at regular intervals, with a detailed view for a specific date (March 31, 2021).  
 
-## 2. Healthcare Case Types
+## 2. Healthcare Case Types  
+
 **Case Types Analyzed:-**  
 
 **The data is categorized by three main case types:**  
