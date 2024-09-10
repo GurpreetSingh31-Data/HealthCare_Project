@@ -23,7 +23,7 @@
 
 **Top 5 Specialties with the Longest Waitlists**:The specialties with the highest average wait times are listed, with Pediatric Dermatology having the longest wait time at 167.89 days.  
 
-**Insight**: Pediatric specialties, especially Dermatology and ENT, are facing significant wait times, which might require resource allocation or process improvement to address these bottlenecks.  
+**Insight**: Pediatric specialties, especially Dermatology and ENT, are facing significant wait times, which might require resource allocation or process improvement to address these conditions.  
 
 **Monthly Trend Analysis - Day Case/Inpatient vs Outpatients**:The line chart tracks the sum of waitlists over time, broken down by case type (Day Case, Inpatient, Outpatient).  
 
